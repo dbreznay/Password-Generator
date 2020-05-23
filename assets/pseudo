@@ -1,0 +1,7 @@
+when page loads, user is prompted with questions for a random password generator.
+make vairables.
+Prompt user for password criteria.
+make a for loop to randomly generate the password.
+input user responses from the prompts.
+take inputs and generate password.
+have password generate when 'generate' button is pressed 
