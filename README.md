@@ -17,6 +17,6 @@ https://dbreznay.github.io/Password-Generator/
 
 https://github.com/dbreznay/Password-Generator
 
-## Screenshot of page
+
 
 
