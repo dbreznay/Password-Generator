@@ -50,4 +50,4 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Application UI
 
-[Image](assets/images/RPG.jpg) 
+[(assets/images/RPG.jpg)] 
